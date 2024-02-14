@@ -1,7 +1,5 @@
 # Carna-Code-Desafio-Balta-2024
 
-:construction: Projeto em construção :construction_worker:
-
 :metal: ** Squad: ** :four:
 
   - [@TheJessicaBohn](https://github.com/TheJessicaBohn)
